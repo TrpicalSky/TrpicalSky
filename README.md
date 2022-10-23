@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-
-Here are some ideas to get you started:
+### INFO BELOW ↓
 
 - 🔭 I’m currently working on - No Big Projects At The Moment
 - 🌱 I’m currently learning - C++ 
