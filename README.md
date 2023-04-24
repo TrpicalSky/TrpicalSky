@@ -6,9 +6,9 @@
 
 ### INFO BELOW ↓
 
-- 🔭 I’m currently working on - No Big Projects At The Moment
+- 🔭 I’m currently working on - Nothing at the moment just studying C++
 - 🌱 I’m currently learning - C++ 
-- 👯 I’m looking to collaborate on - Nothing At The Moment
+- 👯 I’m looking to collaborate on - N/aA
 - 🤔 I’m looking for help with - N/A
 - 💬 Ask me about - Anything 
 - 📫 How to reach me: - https://trpicalsky.github.io/TrpicalSky-Site/
